@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+h1{
+    color: aqua;
+    background-color: midnightblue;
+}
+p{
+    color: rgb(213, 231, 224);
+    background-color: rgba(5, 7, 1, 0.527);
+}
+h2{
+    color: rgb(92, 47, 255);
+    background-color: aqua;
+}
+body{
+    background-color: mediumslateblue;
+}
+
+
+
+*{
+    font-family: 'Grape Nuts', cursive;
+}
